@@ -22,7 +22,7 @@ model = HfApiModel()
 
 agent =CodeAgent(tools=[],model=model)
 
-print(agent.run("what is the  temperature my location"))
+print(agent.run("who won the BGT 2024"))
 
 
 
