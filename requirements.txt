@@ -1,0 +1,6 @@
+smolagents
+litellm 
+openai 
+huggingface
+python-dotenv
+groq
